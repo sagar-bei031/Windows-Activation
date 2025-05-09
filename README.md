@@ -15,7 +15,7 @@
 
 3. Set KMS Service
    ```cmd
-   cscript slmgr.vbs /skms kms.lotro.cc
+   cscript slmgr.vbs /skms  kms8.msguides.com
    ```
 
 4. Activate Windows
