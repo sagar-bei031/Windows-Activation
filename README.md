@@ -11,7 +11,7 @@
    cscript slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
    ```
 
-   See [kms-client-activation](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) for product key.
+   See [TenForums List of Generic Product Keys](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) or [kms-client-activation](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) for generic product key.
 
 3. Set KMS Service
    ```cmd
